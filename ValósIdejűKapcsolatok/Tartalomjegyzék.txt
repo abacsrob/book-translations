@@ -230,3 +230,8 @@ Az igazság kimondása
 * Következetes őszinteség
 
 Következtetések és tények
+* A félrebeszélés kivédése
+
+Post hoc ergo propter hoc
+
+A félrebeszélés hatástalanítása
