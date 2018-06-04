@@ -263,3 +263,7 @@ Tipikus védekezés
 * Önsajnálat
 * Tagadás
 * Ellentámadás
+* Felejtés
+* Okolás
+* Az együttérzésre való "agresszív" hivatkozás
+* Az önérzetre való "agresszív" hivatkozás

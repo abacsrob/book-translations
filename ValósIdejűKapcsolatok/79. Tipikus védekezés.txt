@@ -30,7 +30,7 @@ Válasz: Elkezd sírni
 Jelentés: Ha szimpátiát merészelsz kicsikarni belőlem, hát én sem fogok tétlenül ülni, ugyanezt fogom tenni veled. Ha azt hiszed, hogy lehet úgy is ahogy te akarod, akkor nagyon tévedsz.
 
 Válasz: Sajnálom, hogy így történt, de nagyon elfoglalt voltam, apád sohasem volt otthon, igyekeztem minden tőlem tellhetőt megtenni, akármilyen nehéz helyzetben is voltunk.
-Jelentés: Csakis egy hihetetlenül kegyetlen és önző gyermek képes végighallgatni a siránkozásomat és nem belátni hogy én voltam rosszabb helyzetben
+Jelentés: Csakis egy hihetetlenül kegyetlen és önző gyermek képes végighallgatni a siránkozásomat és nem belátni hogy én voltam rosszabb helyzetben.
 
 Válasz: Dehát mindent megtettem érted! Egész életemet a gyerekeimnek szenteltem és te mégis ilyenekkel vagy képes megvádolni engem?
 Jelentés: Nagyon sok mindennel tartozol te nekem, megszültelek, etettelek, itattalak, melletted voltam, ha még ezek után sem vagy képes meglátni hogy ez mekkora áldozat volt a részemről, akkor mégis mit vársz, hogy szó nélkül tűrjem a hálátlanságodat?
@@ -41,7 +41,7 @@ Jelentés: Jogtalanul kritizálsz és ezért rosszul érzem magamat. Te kis nyom
 * Tagadás
 
 Válasz: Micsoda sületlenség, persze hogy figyelek rád!
-Jelentés: Nagyon is tévedésben élsz és ennek tetejében még engem támadsz jogtalanul. Átlátod a hazugságaimat, Istenem mégise miért?
+Jelentés: Nagyon is tévedésben élsz és ennek tetejében még engem támadsz jogtalanul. Átlátod a hazugságaimat, Istenem mégis miért?
 
 Válasz: Ezt nem gondolhatod komolyan! Hogyan lehetsz ennyire kegyetlen? (Elkezd sírni)
 Jelentés: Megint tévedsz és jogtalanul támadsz.
@@ -56,5 +56,70 @@ Jelentés: Jogtalanul támadod őket. Állítom hogy a probléma amihez ragaszko
 
 Válasz: Gyerekekként olyan nehéz dolgom volt veletek. Tudom hogy voltak pillanatok amikor elvesztettem a türelmemet és ezt sajnálom - de mindezt ti magatok okoztátok a rossz viselkedésetekkel és azzal hogy sohasem hallgattatok rám.
 Jelentés: Rossz gyerek voltál, és miattad viselkedtem én is rosszul. Csakis te tehettél az egészről. Annyira frusztrál amikor az emberek szavak nélkül kérnek tőlem valamit és amikor megadom nekik amit kértek és amit egyébként is megérdemeltek, elkezdenek panaszkodni és nyavajogni.
+
+Válasz: Dehát sohasem tettem ilyet! Hogy mondhatsz ilyet? Miért találsz ki történeteket ami meg sem történtek? Miért akarsz bántani?
+Jelentés: Engem nem érdekel ha te valóban szenvedsz, de ha én szenvedek a te dolgod lenne hogy ezzel törődj!
+
+Válasz: Történtek rossz dolgok, ezt nem tagadom, azok az idők mindnyájunk számára nehezek voltak - azonban ez már nagyon régen volt, ideje lenne hogy továbblépj és hogy megbocsáss.
+Jelentés: Nagyon zavar ha felhozod a múltat, ezért úgy fogok tenni mintha hálátlanul dobálóznál a sértésekkel. Azért hivatkozol a múltra hogy azt használd arra hogy befolyásod legyen felettem a jelenben és ezt nem fogom hagyni.
+
+Válasz: Sohasem tudtál megbocsájtani senkinek sem. Így sohasem leszel képes továbblépni az életben.
+Jelentés: Nincs jogodban megvetést érezni irántam csak azért mert néhányszor megvertelek. Mindezt a "fájdalmat" amiről beszélsz csak beképzeled magadnak. Az én szüleimmel pedig nem voltak problémáim, ebben a helyzetben pedig igenis hogy veled van a probléma.
+
+Válasz: Mondd csak, mégis mit gondolsz van-e ebben a szent pillanatban valaki, bárki aki megfelel az elvárásaidnak? Senki? Micsoda meglepetés. Akkor viszont levonhatjuk a következtetést, miszerint a problémaid legkisebb közös többszöröse te magad vagy!
+Jelentés: Ha bármilyen okból fájdalmat érzel a múlt miatt, az csakis azért van mert lehetetlenek az elvárásaid amelyeknek képtelenség megfelelni. Apád és én voltunk és vagyunk ennek az első számú áldozatai.
+
+Válasz (Apa): Mégis hányszor kell még hogy bocsánatot kérjünk mielőtt meg leszel elégedve, te kis ...?
+Jelentés: Ha felhozod ezt akkor nagyon dühös leszek. Hisz már bocsánatot kértem tőled nem is egyszer, mégha mérgesen is.
+
+* Felejtés
+
+Válasz (anya/apa): Nem emlékszem hogy történt volna ilyesmi bármikor is. De azért megértem, hogy ez tényleg frusztráló lehet számodra. Ha beszélni akarsz erről, tudod hogy én mindig itt leszek. (Amit azonnali tagadás követ, ha mégegyszer felhoznád a témát)
+Jelentés: Nagyon sajnáljuk, hogy azt képzeled hogy rossz szüleid voltunk. És azt is megértjük hogy a képzelgéseid miatt vagy ennyire csalódott, de mostmár igazán abbahagyhatnád a dolog erőltetését.
+
+Válasz (anya/apa): Én erre másképp emlékszem. Számomra nem így zajlottak le ezek a dolgok, de ahogy nekem is úgy neked jogod van a saját véleményedhez.
+Jelentés: Ahogyan visszaemlékszel a gyerekkorodra az olyanná is fog válni. Ez persze nem jelenti azt is egyben, hogy minden úgy történt ahogyan emlékezünk rájuk. Megértjük, hogy most egy kicsit össze vagy zavarodva emiatt és melletted állunk mint jó szülők.
+
+Válasz (apa): Nem emlékszem ilyesmire. Biztos vagy benne hogy nem csak képzelődsz?
+Jelentés: Elég sajnálatos hogy képtelen vagy feldolgozni a valóságot. Kész örömmel áldozom fel a józanságodat azért hogy az én múltról fenntartott illúzióm sértetlenek fennmaradhassanak.
+
+* Okolás
+
+Válasz (testvérek): (Szemforgatás). Ő egyszerűen ilyen - ne is figyeljetek rá. Valami jelentéktelen dolog miatt mindig megsértődik amit aztán évekig képes emlegetni.
+Jelentés: Csak egy ilyen irracionálisan dühös ember képes panaszkodni a szüleinkre, mint te. Ne figyeljetek rá, nem másra mérges hanem csak saját magára.
+
+Válasz (anya/apa): Már tudjuk hogy mit érzel a témával kapcsolatban - és jobb lenne ha ezúttal még csak bele sem kezdesz, tudjuk hogy problémáid vannak velünk...
+Jelentés: Nem számít mennyire próbálunk lenyugtatni és megfelelni neked, valamit mindig hiányolni fogsz. Szinte káros szokásoddá vált az, hogy minden rossz dologért ami veled történt minket hibáztatsz.
+
+Válasz (apa): Dehát mégis mit kezdjek a véget nem érő panaszkodásoddal?
+Jelentés: Na jó, csak azért hogy ne veszekedjünk, nem fogok úgy tenni mintha nem érdekelnél. Azonban továbbra sem értem, hogy pontosan mi is az amit tőlem szeretnél.
+
+Válasz (anya): Van valami amit másképp csinálhatnék? (A lista átnyújtása után pedig elkezd viszakozni vagy rosszabb esetben ellentámadásba lendül)
+Jelentés: Mindig is igyekeztem, hogy megfeleljek az elvárásaidnak - de persze csakis addig a pontig amíg nem egyértelmű hogy mik is azok pontosan, miután azonban inkább magamat védem.
+
+* Az együttérzésre való "agresszív" hivatkozás
+
+Válasz (apa): Anyád előtt ezt nem kellene felhoznod, mert nagyon érzékeny.
+Jelentés: Az érzékeny emberekkel óvatosan kell viselkednünk - kivéve ha gyerekekről van szó mert akkor nyugodtan bánthatjuk őket, ahogyan akarjuk.
+
+Válasz (anya): Hát nem érted, hogy ez a beszélgetés mennyit árt nekem? Igazán lehetne benned kicsivel több együttérzés irántam.
+Jelentés: A kapcsolatunkban csak az én lelkiállapotom fontos - a te érzéseid pedig csak azért léteznek, hogy az én elvárásaimnak megfeleljenek.
+
+Válasz (testvérek): Anya minden tőle tellhetőt megtett. Mindnyájunknak csakis a legjobbat akarta, csak éppen nem volt hozzá elég tudása. Akkoriban még nem volt olyan könnyű mint manapság. Ma már Oprah és Dr Phil mindenre választ ad.
+Jelentés: Teljes mértékben intoleráns vagy anyával szemben - ez olyan mintha én azért haragudnék meg egy szobanövényre mert az nem tud programozni. Az a tény pedig, hogy régen neki voltak lehetetlen elvárásai velünk szemben teljes mértékben irreleváns.
+
+Válasz (testvérek): Anya és apa egyre öregebbek, ha nem vetted volna észre. És mindnyájan tisztában vagyunk vele hogy nem mindig cselekedtek helyesen, de nem várhatjuk el tőlük hogy pont most változzanak meg. Így nekünk kell alkalmazkodnunk hozzájuk.
+Jelentés: Egy olyan szintű lelki érettségre van szükségünk - amivel te egyértelműen nem rendelkezel - amellyel el tudjuk fogadni az embereket hibáikkal együtt. Akik tévedtek megérdemlik bocsánatunkat - és ez főleg azokra vonatkozik akik nekünk sohasem bocsájtottak meg semmit sem!
+
+* Az önérzetre való "agresszív" hivatkozás
+
+Válasz (testvérek): Mikor fogod már végre lefelejteni a régi, jelentéktelen sérelmeidet? Ha ezt nem teszed meg, sohasem lehet egyetlen nyugodt pillanatod sem.
+Jelentés: Most hogy szüleinknek már nincs különösebb beleszólásuk abba hogy mi hogy éljük az életeinket, meg fogom próbálni azt hogy meggyőzzelek arról hogy azért boldogságunkat még azért ettől függetlenül teljes mértékben meghatározhatják. Ha nem csillapítod le magadban az irántuk táplált negatív érzéseidet életed végéig üldözni fognak. De ha elég erős vagy, akkor igenis képes leszel túllépni rajtuk.
+
+Válasz (testvérek): Egész életedben ezek miatt akarod magad emészteni? Ha elfogadnád a múltat, olyannak amilyen volt és megbocsájtanál, hidd el hogy minden jobbra fordulna.
+Jelentés: Nem fogom elfogadni azt a fájdalamat és szenvedést amelyet szüleink okoztak neked, miközben arról fogok prédikálni miszerint a dolgokat olyannak kell elfogadni amilyenek.
+
+Válasz (testvérek): Valakinek csak engednie kell és ha egyértelmű, hogy ez nem anya lesz, akkor nem tudom miért nyüzsögsz és miért nem fogadod el őt ilyennek?
+Jelentés: A bölcs mindig behódol a bolond előtt, onnan tudjuk hogy ő a bölcs. Anya egy nagyon gyönge személyiség és képtelen úgy kezelni másokat ahogyan azt azok elvárnák tőle. Remélem nem akarsz te is ilyen gyönge lenni, mert az eddigi viselkedéseddel csakis ezt bizonyítottad.
 
 
