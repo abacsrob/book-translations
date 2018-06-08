@@ -272,3 +272,5 @@ A beszélgetés
 
 * A háttérben munkálkodó alapelvek
 * Hogyan tovább?
+* A végjáték
+* Halott lelkek
